@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#container {
+  border: 2px solid grey;
+  width: 80vw;
+  margin: 40px auto;
+  padding: 20px 30px;
+}
+
+h1 {
+  padding: 10px auto;
+  margin: 10px auto;
+}
+
+#form {
+  padding: 10px auto;
+  margin: 10px auto;
+}
